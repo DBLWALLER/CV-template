@@ -19,7 +19,8 @@ p {
 	font-size: 1em;
 	line-height: 1.4em;
 	margin-bottom: 20px;
-	color: #444;
+	/*color: #444;*/
+	color: #42f48c;
 }
 
 #cv {
@@ -40,7 +41,7 @@ p {
 	font-weight: 700;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	margin-bottom: -6px;
-	color: #42f48c
+	
 }
 
 #name h2 {
