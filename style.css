@@ -117,7 +117,9 @@ section:last-child {
 
 .sectionTitle {
 	float: left;
+	color: #006400;
 	width: 25%;
+	
 }
 
 .sectionContent {
